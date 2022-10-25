@@ -5,3 +5,5 @@ A VR Experience that allows you to visit popular Nintendo maps in a VR space.
 
 Download Now For Oculus Quest 2, Sideload Using Sidequest.
 (YOU MUST ENABLE PERMISSIONS OR ELSE IT WILL NOT START!)
+
+Codename  "Mario_Sightsee" Started off as just mario maps, but branched out into what it is now. A Nintendo VR Experience.
